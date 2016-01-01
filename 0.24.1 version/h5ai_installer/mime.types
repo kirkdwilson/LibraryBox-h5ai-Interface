@@ -88,7 +88,14 @@ mimetype.assign             = (
   ".3gpp"    =>     "video/3gpp",
   ".3gpp2"   =>     "video/3gpp2",
   ".3g2"     =>     "video/3gpp2",
+  ".jad"     =>     "text/vnd.sun.j2me.app-descriptor",
+  ".jar"     =>     "application/java-archive",
+  ".sis"     =>     "application/vnd.symbian.install",
+  ".deb"     =>     "application/x-debian-package",
+  ".bar"     =>     "application/octet-stream",
+  ".cab"     =>     "application/vnd.ms-cab-compressed",
 
+  
 # make the default mime type application/octet-stream.
   ""              =>      "application/octet-stream",
 )
