@@ -12,6 +12,7 @@ cp -fr _h5ai /opt/piratebox/www/
 echo "Modifying files"
 cp -f mime.types /opt/piratebox/conf/lighttpd/
 cp -f lighttpd.conf /opt/piratebox/conf/lighttpd/
+cp -f banner_Updated /etc/banner
 echo "Select 'A' if prompted to overwrite"
 echo "Installation complete - cleaning up temp files"
 cd ..

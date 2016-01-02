@@ -72,11 +72,11 @@ File types mapped to file extensions
 	"apk":				[".apk"],
 	"xml":				[".xml"],
 	"zip":				[".7z", ".bz2", ".jar", ".lzma", ".war", ".z", ".Z", ".zip"],
-	"dmg":				[".dmg"]
-	"jad":              [".jad"]
-	"jar":              [".jar"]
-	"symbian":          [".sis"]
-	"firemob":          [".deb"]
-	"blackberry":       [".bar"]
+	"dmg":				[".dmg"],
+	"jad":              [".jad"],
+	"jar":              [".jar"],
+	"symbian":          [".sis"],
+	"firemob":          [".deb"],
+	"blackberry":       [".bar"],
 	"winmob":           [".cab"]
 }
