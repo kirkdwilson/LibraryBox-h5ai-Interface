@@ -94,7 +94,7 @@ mimetype.assign             = (
   ".deb"     =>     "application/x-debian-package",
   ".bar"     =>     "application/octet-stream",
   ".cab"     =>     "application/vnd.ms-cab-compressed",
-
+  ".webm"    =>     "video/webm",
   
 # make the default mime type application/octet-stream.
   ""              =>      "application/octet-stream",

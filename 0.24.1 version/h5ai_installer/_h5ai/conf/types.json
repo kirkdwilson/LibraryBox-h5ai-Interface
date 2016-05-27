@@ -2,6 +2,7 @@
 h5ai 0.24.1
 http://larsjung.de/h5ai/
 Modified by KDW for added mobile types
+
 File types mapped to file extensions
 */
 
@@ -73,10 +74,10 @@ File types mapped to file extensions
 	"xml":				[".xml"],
 	"zip":				[".7z", ".bz2", ".jar", ".lzma", ".war", ".z", ".Z", ".zip"],
 	"dmg":				[".dmg"],
-	"jad":              [".jad"],
-	"jar":              [".jar"],
-	"symbian":          [".sis"],
-	"firemob":          [".deb"],
-	"blackberry":       [".bar"],
-	"winmob":           [".cab"]
+	"jad":				[".jad"],
+	"jar":				[".jar"],
+	"symbian":			[".sis"],
+	"firemob":			[".deb"],
+	"blackberry":		[".bar"],
+	"winmob":			[".cab"]
 }
